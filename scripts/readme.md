@@ -52,6 +52,7 @@ nano /etc/systemd/system/mentor.service
 ```bash
 cd /etc/systemd/system/
 systemctl daemon-reload
+systemctl enable mentor.service
 ```
 
 10. Ellenőrizzük és indítsuk el
