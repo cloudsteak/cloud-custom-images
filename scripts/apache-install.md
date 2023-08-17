@@ -18,7 +18,7 @@ sudo apt install apache2 -y
 sudo ufw status
 ```
 
-*Megjegyzés: Inaktív legyen*
+_Megjegyzés: Inaktív legyen_
 
 4. Apache futásának ellenőrzése
 
@@ -26,7 +26,7 @@ sudo ufw status
 sudo systemctl status apache2
 ```
 
-*Megjegyzés: `Active: active (running)` értéknek kell zöldel megjelennie
+\*Megjegyzés: `Active: active (running)` értéknek kell zöldel megjelennie
 
 5. Apache induljon el, ha a gép elindul
 
@@ -37,5 +37,6 @@ sudo systemctl enable apache2
 6. Nézzük meg az apache kezdőlapját
 
 Böngészőben nyissuk meg az alábbiak valamelyikét:
+
 - `http://<gép nyilvános IP címe>`
 - `http://<gép nyilvános DNS neve>`
