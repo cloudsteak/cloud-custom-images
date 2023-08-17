@@ -1,5 +1,6 @@
-# cloud-custom-images
-Custom images related scripts and documents for all hyperscalers
+# Egyedi képfájl készítése
+
+Egyedi képfájl készítése a különböző felhő szolgáltatók virtuális gépeihez
 
 
 ## Weboldal előkészítés
