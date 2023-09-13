@@ -38,13 +38,13 @@ _.env tartalma_:
 PORT=80
 DB_USER="adatgazda"
 DB_PASSWORD="<SQL adatgazda jelszava>"
-DB_SERVER="<SQL szerver neve>.windows.net"
+DB_SERVER="<SQL szerver neve>.database.windows.net"
 DB_NAME="<SQL adatbázis neve>"
 DB_PORT="1433"
 ```
 _Oktatási példa:_
 ```
-DB_SERVER="trn-azure-sql-01.windows.net"
+DB_SERVER="trn-azure-sql-01.database.windows.net"
 DB_NAME="webshop"
 ```
 
