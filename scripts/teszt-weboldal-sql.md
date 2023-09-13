@@ -97,3 +97,6 @@ systemctl status mentor-sql.service
 ```
 
 
+
+Nagyjából 30 másodperc múlva el is érhető az alkalmazásunk.
+Innen már csak az van hátra, hogy ebből egy újrafelhasználható `VM Image`-t készítünk.
