@@ -42,6 +42,11 @@ DB_SERVER="<SQL szerver neve>.windows.net"
 DB_NAME="<SQL adatbázis neve>"
 DB_PORT="1433"
 ```
+_Oktatási példa:_
+```
+DB_SERVER="trn-azure-sql-01.windows.net"
+DB_NAME="webshop"
+```
 
 Mentés: `CTRL + o` majd `CTRL + x`
 
