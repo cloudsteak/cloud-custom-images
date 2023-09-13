@@ -45,4 +45,3 @@ Utána lépjünk ki a gépből és állítsuk le (Leállítva - felszabadítva)
 ## Weboldal + SQL előkészítés
 
 [Teszt weboldal + SQL kapcsolat virtuálisgéphez](scripts/teszt-weboldal-sql.md)
-```
