@@ -15,7 +15,7 @@ cd /var/www
 rm -rf trn-azure-webapp-sql
 
 # App 
-#git clone https://github.com/cloudsteak/trn-azure-webapp-sql.git
+git clone https://github.com/cloudsteak/trn-azure-webapp-sql.git
 
 # Kapcsolat
 cp .env trn-azure-webapp-sql/
