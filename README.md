@@ -5,7 +5,8 @@ Egyedi képfájl készítése a különböző felhő szolgáltatók virtuális g
 Dokumentumok
 
 - "Generalize": https://learn.microsoft.com/en-us/azure/virtual-machines/linux/create-upload-ubuntu
-  - Legfontosabb:
+
+Legfontosabb:
 
 ```bash
 sudo cat >> /etc/waagent.conf << EOF
@@ -26,11 +27,10 @@ sudo rm -rf /var/lib/waagent/
 sudo rm -f /var/log/waagent.log
 ```
 
-``bash
+```bash
 sudo waagent -force -deprovision+user
 sudo rm -f ~/.bash_history
 sudo export HISTSIZE=0
-
 ```
 
 Utána lépjünk ki a gépből és állítsuk le (Leállítva - felszabadítva)
