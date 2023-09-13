@@ -8,10 +8,14 @@
 
 ### Webalkalmazás előkészítése
 
-1. Root módra váltunk
+1. Root módra váltunk és lefrissítjük a szervert
 
 ```bash
 sudo -i
+```
+
+```bash
+apt update && apt upgrade -y
 ```
 
 

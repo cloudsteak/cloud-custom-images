@@ -2,6 +2,7 @@
 
 # Komponens telepites
 cd ~
+apt update
 apt install wget -y
 wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.39.5/install.sh | bash
 source ~/.profile
