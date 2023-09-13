@@ -5,4 +5,8 @@ Egyedi képfájl készítése a különböző felhő szolgáltatók virtuális g
 
 ## Weboldal előkészítés
 
-[scripts/readme.md](scripts/readme.md)
+[Teszt weboldal virtuálisgéphez](scripts/teszt-weboldal.md)
+
+## Weboldal + SQL előkészítés
+
+[Teszt weboldal + SQL kapcsolat virtuálisgéphez](scripts/teszt-weboldal-sql.md)
