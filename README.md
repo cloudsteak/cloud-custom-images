@@ -25,7 +25,7 @@ sudo export HISTSIZE=0
 Utána lépjünk ki a gépből és állítsuk le (Leállítva - felszabadítva)
 
 - Virtuális gép képének létrehozása a portálon: https://learn.microsoft.com/hu-hu/azure/virtual-machines/capture-image-portal
-- Gelériához adás: https://learn.microsoft.com/hu-hu/azure/virtual-machines/image-version?tabs=portal%2Ccli2
+- Gelériához adás: https://learn.microsoft.com/hu-hu/azure/virtual-machines/shared-image-galleries?tabs=azure-cli
 
 ## Weboldal előkészítés
 
