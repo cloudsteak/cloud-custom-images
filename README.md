@@ -19,7 +19,7 @@ sudo rm -f /var/log/waagent.log
 ```bash
 sudo waagent -force -deprovision+user
 sudo rm -f ~/.bash_history
-sudo export HISTSIZE=0
+export HISTSIZE=0
 ```
 
 Utána lépjünk ki a gépből és állítsuk le (Leállítva - felszabadítva)
