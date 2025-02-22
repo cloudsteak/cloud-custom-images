@@ -2,7 +2,7 @@
 
 ## Előfeltételek
 
-- Ubuntu 20.04 vagy Ubuntu 22.04
+- Ubuntu 22.04 vagy Ubunti 24.04
 - [Apache 2](apache-install.md)
 
 ## Parancsok
