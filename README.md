@@ -4,7 +4,7 @@ Egyedi képfájl készítése a különböző felhő szolgáltatók virtuális g
 
 Dokumentumok
 
-- "Generalize": https://learn.microsoft.com/en-us/azure/virtual-machines/linux/create-upload-ubuntu
+- "Generalize": https://learn.microsoft.com/hu-hu/azure/virtual-machines/linux/create-upload-ubuntu
 
 Legfontosabb:
 
