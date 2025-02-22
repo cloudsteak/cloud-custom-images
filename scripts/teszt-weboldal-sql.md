@@ -2,7 +2,7 @@
 
 ## Előfeltételek
 
-- Ubuntu 20.04 vagy Ubunti 22.04
+- Ubuntu 22.04 vagy Ubunti 24.04
 
 ## Parancsok
 
