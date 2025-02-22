@@ -3,7 +3,10 @@
 # Komponens telepites
 cd ~
 wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.40.1/install.sh | bash
-source ~/.profile
+
+# NVM
+export NVM_DIR="$HOME/.nvm"
+source "$NVM_DIR/nvm.sh"
 nvm install 22
 
 # Munka mappa
