@@ -2,9 +2,9 @@
 
 # Komponens telepites
 cd ~
-wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.39.7/install.sh | bash
+wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.40.1/install.sh | bash
 source ~/.profile
-nvm install 20
+nvm install 22
 
 # Munka mappa
 cd /var/www
